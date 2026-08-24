@@ -1,1 +1,7 @@
 secret.txt
+logs/
+*.swp
+*.tmp
+*~
+*.tar.gz
+
